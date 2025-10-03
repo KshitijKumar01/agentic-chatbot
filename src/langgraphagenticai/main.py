@@ -52,3 +52,4 @@ def load_langgraph_agentic_app():
             st.error(f"Error: Graph setup failed {e}")
             return
     
+print("hello there!")
